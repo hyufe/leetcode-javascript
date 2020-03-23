@@ -1,8 +1,6 @@
 package easy._876;
 
-import java.lang.reflect.Array;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。
